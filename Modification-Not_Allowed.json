@@ -2,5 +2,6 @@
   "schemaVersion": 1, 
   "label": "Modification", 
   "message": "Not Allowed", 
-  "color": "red" 
+  "color": "red",
+  "style": "for-the-badge"
 }
