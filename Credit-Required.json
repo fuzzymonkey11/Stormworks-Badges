@@ -1,0 +1,7 @@
+{ 
+  "schemaVersion": 1, 
+  "label": "Credit", 
+  "message": "Required", 
+  "color": "red",
+  "style": "for-the-badge"
+}
